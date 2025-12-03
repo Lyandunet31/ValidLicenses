@@ -1,6 +1,6 @@
-return {
-    [1] = { License = "MDCW-G5ON-J4WX-UMIL", Active = true },
-    [2] = { License = "ABCD-EFGH-IJKL-MNOP", Active = true },
-    [3] = { License = "Z9XW-C4RT-88PL-QWER", Active = true },
-    [4] = { License = "YU77-PLMN-12AZ-KK93", Active = true },
-}
+[
+  { "License": "MDCW-G5ON-J4WX-UMIL", "Active": true },
+  { "License": "ABCD-EFGH-IJKL-MNOP", "Active": false },
+  { "License": "Z9XW-C4RT-88PL-QWER", "Active": true },
+  { "License": "YU77-PLMN-12AZ-KK93", "Active": false }
+]
